@@ -1,22 +1,24 @@
-🥘 Ayo Masak
-Ayo Masak adalah website resep makanan dan minuman yang dirancang seperti buku resep digital. Dibangun menggunakan Laravel 10 tanpa database, desain UI yang bersih dan responsif dengan Tailwind CSS, serta sedikit sentuhan JavaScript untuk interaksi ringan.
+# 🍳 Ayo Masak
 
-🚀 Fitur Utama
-📖 Menampilkan kumpulan resep makanan dan minuman
+**Ayo Masak** adalah sebuah website buku resep makanan dan minuman yang dibuat menggunakan Laravel 10. Website ini menampilkan berbagai resep masakan secara dinamis tanpa menggunakan database, serta dirancang responsif agar nyaman digunakan di berbagai perangkat.
 
-🔍 Pencarian resep berbasis kategori atau nama
+---
 
-🌙 Mode responsif — tampil cantik di mobile, tablet, dan desktop
+## 🚀 Fitur Utama
 
-⚡ Tanpa database — semua data disimpan dalam array PHP (static)
+- 📚 Kumpulan resep makanan dan minuman
+- 🔍 Halaman detail resep
+- 💡 Data resep disusun dalam array statis (tanpa database)
+- 🎨 Antarmuka modern dengan **Tailwind CSS**
+- 📱 Desain **responsive** untuk mobile & desktop
+- ✨ JavaScript ringan untuk interaksi minimal
 
-🎨 Menggunakan Tailwind CSS untuk tampilan modern
+---
 
-✨ JavaScript ringan untuk efek dan interaksi
+## 🛠️ Teknologi yang Digunakan
 
-🛠️ Teknologi yang Digunakan
-Laravel 10
+- [Laravel 10](https://laravel.com/docs/10.x) (tanpa database)
+- [Tailwind CSS](https://tailwindcss.com/) untuk styling
+- Sedikit [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) untuk fitur interaktif
 
-Tailwind CSS
-
-Sedikit Vanilla JavaScript
+---
